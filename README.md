@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @elmarwouters
 - 👀 I’m interested in all of the techniques
-- 🌱 I’m currently learning Typescript, Vue, Symfony, Laravel and Python
+- 🌱 I’m currently learning Typescript, Vue, Symfony, Laravel, Python and Kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter (@elmarwouters), Instagram (@elmarwouters)
+- Working currently with: React, Next.JS, Javascript, Typescript, PHP, Laravel, Vue, Python, Django, Docker.
 
 <!---
 elmarwouters/elmarwouters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
