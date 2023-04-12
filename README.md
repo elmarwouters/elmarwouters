@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elmarwouters
 - 👀 I’m interested in all of the techniques
-- 🌱 I’m currently learning Typescript, Vue, Symfony, Laravel, Python and Kubernetes.
+- 🌱 I’m currently learning Typescript, Vue, Angular, Symfony, Laravel, Python and Kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter (@elmarwouters), Instagram (@elmarwouters)
 - Working currently with: React, Next.JS, Javascript, Typescript, PHP, Laravel, Vue, Python, Django, Docker.
